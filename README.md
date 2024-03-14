@@ -1,1 +1,1 @@
-# R-Project
+The prevalence of fake news in today's digital age poses a significant challenge to the integrity of information dissemination and public opinion. Detecting and combating fake news requires advanced techniques from the field of data science. The main objective of this project is to detect the fake news based on some applications like count of words, count of exclamations and question marks, sentiments and normalized values of medains and standard deviations.  # R-Project
